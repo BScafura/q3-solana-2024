@@ -1,0 +1,9 @@
+C:\Users\enzos\OneDrive\Ambiente de Trabalho\Breno\Github\q3-solana-2024\rust-enroll\target\debug\deps\num_enum_derive-33cef07bd93d62ca.dll: C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs
+
+C:\Users\enzos\OneDrive\Ambiente de Trabalho\Breno\Github\q3-solana-2024\rust-enroll\target\debug\deps\num_enum_derive-33cef07bd93d62ca.d: C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs
+
+C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\lib.rs:
+C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\enum_attributes.rs:
+C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\parsing.rs:
+C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\utils.rs:
+C:\Users\enzos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num_enum_derive-0.7.2\src\variant_attributes.rs:
